@@ -5,6 +5,7 @@ plasma-workspace (4:5.0.95-0ubuntu1) UNRELEASED; urgency=medium
 
   [ Harald Sitter ]
   * abc
+  * abc
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 01 Oct 2014 15:29:24 +0200
 
