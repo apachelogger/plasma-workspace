@@ -1,3 +1,15 @@
+plasma-workspace (4:5.0.95-0ubuntu1) UNRELEASED; urgency=medium
+
+  [ Jonathan Riddell ]
+  * New upstream beta release
+
+  [ Harald Sitter ]
+  * abc
+  * abc
+  * abc
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 01 Oct 2014 15:29:24 +0200
+
 plasma-workspace (4:5.0.2-0ubuntu1) utopic; urgency=medium
 
   * New upstream release
